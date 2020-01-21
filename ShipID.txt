@@ -1,0 +1,7 @@
+P34WV3J6U9C0A0
+12-25-2014 BUILD
+CSize=All
+
+BIOS Version: FB03
+VBIOS Version: 84.04.22.00.0F
+Smart Manager Version: v4.5.2
